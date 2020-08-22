@@ -2,7 +2,7 @@
 ### こんにちは！ 👋
 ## - 🔭 ハノイ工科大学で勉強している。
 ## - 🌱　ハノイ工科大学ではITと日本語を勉強している。
-<--
+<!--
 **tuyenldhust/tuyenldhust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
