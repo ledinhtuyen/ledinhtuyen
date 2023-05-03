@@ -33,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tuyenldhust&hide_border=true&include_all_commits=true&count_private=true)
 ---
 
+```
 ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
 │Esc│   │ F1│ F2│ F3│ F4│ │ F5│ F6│ F7│ F8│ │ F9│F10│F11│F12│ │P/S│S L│P/B│  ┌┐    ┌┐    ┌┐            │
 └───┘   └───┴───┴───┴───┘ └───┴───┴───┴───┘ └───┴───┴───┴───┘ └───┴───┴───┘  └┘    └┘    └┘            │
@@ -45,7 +46,8 @@
 ├──────┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴────────┤     ┌───┐     ├───┼───┼───┼───┤   │             │
 │ Shift  │ Z │ X │ C │ V │ B │ N │ M │< ,│> .│? /│  Shift   │     │ ↑ │     │ 1 │ 2 │ 3 │   │   │             │
 ├─────┬──┴─┬─┴──┬┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬────┬────┤ ┌───┼───┼───┐ ├───┴───┼───┤ E││   │             │
-│ Ctrl│    │Alt │         teng          │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│   │     teng    │
+│ Ctrl│    │Alt │         teng          │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│   │ tuyenldhust │
 └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘   └─────────────┘
+```
 
 [![](https://visitcount.itsvg.in/api?id=tuyenld&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
