@@ -27,7 +27,7 @@
 
 - :credit_card: My full name is **Le Dinh Tuyen**
 - :school: I'm currently student at **HUST**
-- :books: My major is **AI Engineer, Data Engineer, Cloud Engineer**
+- :books: My major is **MLOps**
 - :earth_asia: I'm living now in **Ha Noi, Viet Nam**
 - :monocle_face: I'm interested in coding, play game and listening music
 - :sunglasses: My quote is ***"No Pain, No Gain"*** 
